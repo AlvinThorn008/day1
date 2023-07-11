@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bitecs": "^0.3.38",
+    "box2d-wasm": "^7.0.0"
+  }
+}
